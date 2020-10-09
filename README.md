@@ -3,6 +3,7 @@
 ## In this project a technique which is able to identify whether an host is generating Tor-related traffic is presented. Well-known Machine learning algorithms were used in order to evaluate the effectiveness of the proposed feature set in a real world environment.
 
 Tor is an anonymous Internet communication system based on the second generation of onion routing network protocol. Using Tor is really difficult to trace the users Internet activity. This is the reason why the usage of Tor is intended in order to protect the privacy of users, their freedom and the ability to conduct confidential communications without being monitored. Tor is even more used by cyber-criminals in order to cover their illegal activities. The Tor community has observed, for instance an alarming increase in the number of malware that abuse the popular anonymous network to hide their command and control infrastructures.
+![image](https://user-images.githubusercontent.com/43853903/95637353-26b6c980-0aaf-11eb-9f68-059af0851664.png)
 
 ## A Brief Overview of Feed Forward Neural Network
 The artificial neural network is inspired from the biological neural network. Neurons are the atomic unit of a biological neural network. Each neuron consists of dendrites, nucleus, and axons. It receives signals through dendrites and is carried out through axons. The computations are performed in the nucleus. The entire network is made up of a chain of neurons. AI researchers borrowed this idea to develop the artificial neural network (ANN). In this setting, each neuron accomplishes three actions:
